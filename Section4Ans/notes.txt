@@ -1,0 +1,3 @@
+View -> Command Palette (Compile)
+Terminal -> Configure Default Build Task (Build)
+Run -> Add Congifuration (Debugger)
